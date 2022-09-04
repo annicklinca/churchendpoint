@@ -76,7 +76,6 @@ stripe==2.64.0
 systemd-python==234
 testresources==2.0.1
 tinycss2==1.1.0
-ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.10
