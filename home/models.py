@@ -17,6 +17,7 @@ class ChurchDonation(models.Model):
     phone = models.CharField(max_length=255)
     location = models.CharField(max_length=255)
     amount = models.CharField(max_length=255)
+    paymentway = models.CharField(max_length=255)
    
     
     def _str_(self):
